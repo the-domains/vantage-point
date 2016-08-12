@@ -1,0 +1,14 @@
+layout_spectrum: 0.07706767
+color:
+  saturation: 0.4937343
+  brandStrength: 0.8445351
+  lightness: 0.6635338
+  rhythmicContrast: 0.325188
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+typography_spectrum: 0.09774436
+name: Vantage Point
